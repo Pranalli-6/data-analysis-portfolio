@@ -1,3 +1,4 @@
+![CPI dashboard](dashboard.png)
 # CPI Inflation Analysis: India, 2013 to 2023
 
 An Excel case study on India's Consumer Price Index. It covers raw data, documented cleaning, five analyses, a PivotTable cross-check and a dashboard.
